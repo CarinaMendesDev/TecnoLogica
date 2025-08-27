@@ -28,8 +28,11 @@ O objetivo é aprender e aplicar conceitos de HTML e CSS, utilizando boas práti
 ---
 
 ## 📸 Exemplo da evolução
-- Estrutura inicial apenas com **HTML** (sem estilos)  
+- Estrutura inicial apenas com **HTML** (sem estilos)
+<img width="1174" height="595" alt="image" src="https://github.com/user-attachments/assets/7bb67ce5-e9e3-4662-b70f-fd1740ae5ed6" />
+ 
 - Layout final com **CSS aplicado**, contendo cabeçalho, menu, sidebar e rodapé.  
+<img width="613" height="587" alt="image" src="https://github.com/user-attachments/assets/af7052e9-ae91-41ce-95e3-ebaf07469748" />
 
 ---
 

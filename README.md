@@ -2,7 +2,7 @@
 
 Este repositório contém o desenvolvimento de um site fictício chamado **TecnoLógica**, criado como parte da disciplina **Aplicação Web e Móveis** da Faculdade **Uninter**.  
 
-O objetivo é aprender e aplicar conceitos de **HTML** e **CSS**, transformando uma estrutura simples de página em um layout mais completo e estilizado.
+O objetivo é aprender e aplicar conceitos de HTML e CSS, utilizando boas práticas de programação e organização, para transformar uma estrutura simples de página em um layout mais completo e estilizado.
 
 ---
 
